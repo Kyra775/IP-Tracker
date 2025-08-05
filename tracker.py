@@ -179,7 +179,7 @@ def menu():
             os.system(f"{sys.executable} -m pip install --upgrade requests tabulate")
             print_status("✅ Modules installed/updated. Please restart the script.")
         elif choice == "0":
-            print("\n\033[1;35m👋 Exiting... Thank you for using EchoTrack!\033[0m\n")
+            print("\n\033[1;35m👋 Exiting... Thank you for using IP-Tracker!\033[0m\n")
             break
         else:
             print_status("❌ Invalid selection", False)
@@ -192,3 +192,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\n\n\033[1;31m⚠️  Operation cancelled by user. Exiting...\033[0m")
         sys.exit()
+
