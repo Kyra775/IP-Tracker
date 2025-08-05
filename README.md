@@ -17,4 +17,4 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/Kyra775/IP-Tracker.git
-cd IP-Track
+cd IP-Tracker
