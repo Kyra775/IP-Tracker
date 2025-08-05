@@ -1,4 +1,4 @@
-# IP-Track
+# IP-Tracker
 
 A lightweight terminal tool to track IP addresses and domains. It gives you basic recon data like location, ISP, timezone, and more—perfect for OSINT beginners, hobbyists, or anyone curious about who's behind an IP.
 
