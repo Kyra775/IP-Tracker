@@ -16,5 +16,5 @@ A lightweight terminal tool to track IP addresses and domains. It gives you basi
 Clone the repo:
 
 ```bash
-git clone https://github.com/Kyra775/IP-Track.git
+git clone https://github.com/Kyra775/IP-Tracker.git
 cd IP-Track
